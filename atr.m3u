@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:25,beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:25,FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:30,TV Pública 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:24,El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:76,A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+#EXTINF:57,Cronica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:30,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
+#EXTINF:15,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:24,tigo1
+#EXTVLCOPT:network-caching=1000
+https://vals88.pricesaskeloadsc.com:443/global/eventos9/index.m3u8?token=9ccd08a7d69ffd5855c0615a0a1904178d8b68b2-27-1728890738-1728854738
+#EXTINF:20,2
+#EXTVLCOPT:network-caching=1000
+https://812.pricesaskeloadsc.com:443/global/starplus02/index.m3u8?token=184c3dcc10ac0d347f209500c6a14b6e988dc07b-3a-1728892156-1728856156
+#EXTINF:20,espn2
+#EXTVLCOPT:network-caching=1000
+https://5156.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=29904eb98a2711be98b9d75971dc6183bcb5162f-3b-1728892363-1728856363
+#EXTINF:24,espn_premium
+#EXTVLCOPT:network-caching=1000
+https://vasoc88.pricesaskeloadsc.com:443/global/espn_premium/index.m3u8?token=251a1e4e6938298d420ff5804ce2c073e8203554-4e-1728892469-1728856469
